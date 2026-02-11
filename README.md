@@ -10,3 +10,7 @@ collaboration
 1. Dark Mode Toggle
 2. Basic HTML5
 3. Standard CSS
+## Features
+- Interactive dark mode
+- Modern UI design
+- Fast loading
