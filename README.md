@@ -5,3 +5,8 @@
 Git basics 
 version control
 collaboration
+
+## Features - Versi Main
+1. Dark Mode Toggle
+2. Basic HTML5
+3. Standard CSS
